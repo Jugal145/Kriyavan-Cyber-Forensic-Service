@@ -1,0 +1,32 @@
+Tool Name,Open,Proprietary,Features,Limitations
+Exif,1,-,"Supports a wide range of file types(images, videos, audio files, documents, and many more)",Command-line interface can be complex for beginners.
+Apache Tika,1,-,"Extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF).",Resource-intensive for large-scale processing
+"Zotero
+",1,-,Used for handling bibliographic metadata and research materials.,"Focused on bibliographic metadata, limited support for other metadata types."
+"Alfresco
+",1,1,It automatically extract metadata from documents using predefined/custom metadata extraction rules.,Open-source version has fewer features compared to the enterprise edition.
+"Nuix Workstation
+
+",-,1,High-speed processing of large data sets; extensive metadata extraction and analysis capabilities.,Expensive; requires significant resources and expertise.
+"AccessData FTK 
+",-,1,Comprehensive forensic analysis and metadata extraction; robust search capabilities.,Requires specialized training to fully utilize its capabilities.
+"EnCase Forensic
+",-,1,Industry-standard tool for forensic investigations; extensive metadata handling.,"Can be slow when processing large datasets, impacting efficiency."
+"Magnet AXIOM
+",-,1,User-friendly interface; powerful for mobile and computer forensics; good metadata extraction.,"Primarily focused on digital forensics, limiting its use for general metadata extraction."
+"Cellebrite UFED
+",-,1,Leading tool for extracting and analyzing data from mobile devices; strong metadata capabilities.,"Focused mainly on mobile device forensics, limiting applicability for other metadata types."
+"Belkasoft Evidence Center
+",-,1,User-friendly; integrates well with other forensic tools; strong metadata extraction.,Less flexible for non-forensic metadata extraction.
+Adobe Acrobat Pro,-,1,Excellent for managing PDF metadata.,"Primarily focused on PDFs, limiting use for other file types."
+Autopsy,1,-,It can used for analyzing entire system,"Primarily supports common file systems (NTFS, FAT, EXT)"
+FotoForensics,1,-,By doing error level analysis it can detect photoshoped and manipulated images,Sensitive images must be uploaded to a third-party server.
+JPEGSnoop,1,-,Provide detailed analysis of JPEG file for forensic analysis.,"Limited to JPEG images, does not support other image formats."
+Forensically,1,-,"By doing error-level analysis it can detect photoshopped and manipulated images.Also, provide clone detection feature",Risk of exposing sensitive data by uploading images to the web.
+Amped Authenticate,1,-,It provides authentication to the document.,"Expensive,High system resource requirements."
+FFmpeg,1,-,Used for multimedia processing and metadata manipulation.,Command-line interface can be challenging for beginners.
+Four match,1,-,Integrates with Adobe Photoshop for seamless image verification.,"Focuses only on JPEG format, not useful for other image formats."
+Exiv2,1,-,"Easily accessible read and write functionalities to XMP, Exif, and IPTC metadata","Lacks a graphical user interface, making it less accessible."
+Ghiro,-,1,"Automated image analysis, suitable for handling large volumes of data",Regular updates and maintenance needed to keep the tool effective.
+Adobe Bridge,-,1,Focuses on media management and useful for organizing and preparing files for further investigation.,"General-purpose media manager, lacks specialized forensic features."
+OSForensics,-,1,"Comprehensive suite for file discovery, email analysis, memory forensics, and more.",Commercial software with a significant cost.
